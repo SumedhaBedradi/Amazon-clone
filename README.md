@@ -28,3 +28,9 @@ This project is intended for educational purposes and serves as a demonstration 
 To view the Amazon clone website, simply open the `Amazon.html` file in a web browser. You can also deploy it on a web server to make it accessible online.
 
 
+### Clone the Repository
+
+```bash
+git clone https://github.com/SumedhaBedradi/amazon-clone.git
+
+
