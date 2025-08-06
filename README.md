@@ -1,11 +1,12 @@
-# Amazon-clone
-This is a clone of the Amazon website created solely with HTML and CSS.
+# Amazon Clone
 
-# Amazon Clone Website
+This is a clone of the Amazon website created solely with HTML and CSS. It replicates the appearance and basic layout of Amazon's homepage for educational purposes.
 
-This project is a clone of the Amazon website created solely with HTML and CSS. It aims to replicate the appearance and basic functionality of the Amazon website's homepage.
+🔗 [View Live Website](https://sumedhabedradi.github.io/Amazon-clone/)
 
-## Table of Contents
+---
+
+## 📚 Table of Contents
 
 - [Introduction](#introduction)
 - [Features](#features)
@@ -13,19 +14,28 @@ This project is a clone of the Amazon website created solely with HTML and CSS. 
 - [Contributing](#contributing)
 - [License](#license)
 
-## Introduction
+---
 
-This project is intended for educational purposes and serves as a demonstration of building a basic web page layout using HTML and styling it with CSS. It does not include any backend functionality, such as user authentication or dynamic data fetching.
+## 🧾 Introduction
 
-## Features
+This project is intended for educational purposes and demonstrates how to build a basic website layout using only HTML and CSS. It does not include any backend logic, JavaScript functionality, or database connectivity.
 
-- Replica of Amazon's homepage layout
-- Responsive design for various screen sizes
-- Basic styling to mimic Amazon's visual appearance
+---
 
-## Usage
+## ✨ Features
 
-To view the Amazon clone website, simply open the `Amazon.html` file in a web browser. You can also deploy it on a web server to make it accessible online.
+- Replica of Amazon’s homepage layout
+- Responsive design for different screen sizes
+- Pure HTML and CSS – no frameworks used
 
+---
 
+## 🚀 Usage
 
+You can view the project live here:  
+👉 **[https://sumedhabedradi.github.io/Amazon-clone/](https://sumedhabedradi.github.io/Amazon-clone/)**
+
+Or, to view it locally:
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/sumedhabedradi/Amazon-clone.git
